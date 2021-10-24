@@ -1,0 +1,65 @@
+{
+    "Div": {
+        "screenshot": ".images\\div-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=afdasf&lastname=asdfaf&salesresult=1234#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".alert"
+    },
+    "Firstname": {
+        "screenshot": ".images\\firstname-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "firstname"
+    },
+    "Lastname": {
+        "screenshot": ".images\\lastname-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "lastname"
+    },
+    "Logout": {
+        "screenshot": ".images\\logout-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "logout"
+    },
+    "Password": {
+        "screenshot": ".images\\password-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "password"
+    },
+    "SalesForm": {
+        "screenshot": ".images\\salesform-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "sales-form"
+    },
+    "Salesresult": {
+        "screenshot": ".images\\salesresult-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salesresult"
+    },
+    "Salestarget": {
+        "screenshot": ".images\\salestarget-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salestarget"
+    },
+    "Username": {
+        "screenshot": ".images\\username-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    }
+}
